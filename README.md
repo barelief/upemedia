@@ -1,4 +1,4 @@
-<img width="4223" height="2252" alt="Upe_logo-Black" src="https://github.com/user-attachments/assets/d6f7733b-bce0-4a40-8772-2109407b8412" />
+<img width="800" height="600" alt="Upe_logo-Black" src="https://github.com/user-attachments/assets/d6f7733b-bce0-4a40-8772-2109407b8412" />
 
 🇱🇹 „UPĖ Media“ misija – kurti prasmingus ir socialiai paveikius animacijos projektus. Buriame talentingus kūrėjus, dirbančius su įvairiomis animacijos technikomis: nuo klasikinės rankomis pieštos iki interaktyvios, virtualios realybės. Šiuo metu prodiusuojame du trumpo metro animacinius filmus: poetinę istoriją „Moteris ir jos gyvenimai“, rež. Rasa Joni ir tautosaka paremtą „Darkią pasaką“, rež. Karolina Bielskytė. Taip pat esame BLON animacijos ir videožaidimų festivalio įkūrėjai ir organizatoriai.
 
